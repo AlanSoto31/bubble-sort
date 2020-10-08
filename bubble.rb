@@ -22,7 +22,7 @@ first_array = [5, 9, -3, -2, 4, 1]
 
 
 
-=begin
+begin
 second_array = %w[hi hello hey]
 
 def bubble_sort_by(arr)
@@ -48,7 +48,7 @@ def one_yield()
 end
 
 one_yield() { puts second_array }
-=end
+
 
 
 
