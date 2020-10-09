@@ -1,4 +1,4 @@
-# bubble-sort
+# Bubble Sort
 
 This project was based on creating a sort method using bubble sort, where two elements are compared and the bigger one will be moved one spot to the right until it becomes the biggest element. 
 
@@ -8,19 +8,7 @@ This project was based on creating a sort method using bubble sort, where two el
 
 ## Prerequisites 
 
-- Chrome browser
-
-## Set up
-* Type ...
-
-````
- $ cd "folder location"
- $ git clone git@github.com:AlanSoto31/bubble-sort.git
- ````
-
-* Install
-* Usage 
-* Deployment 
+- Ruby
 
 ## Authors
 
