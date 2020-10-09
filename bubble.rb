@@ -10,10 +10,10 @@ def bubble_sort(arr)
     end
     k -= 1
   end
-  print arr
+  arr
 end
 
-bubble_sort(first_array)
+p bubble_sort(first_array)
 second_array = %w[heelloo hi hello hey h]
 
 def bubble_sort_by(arr)
@@ -26,7 +26,7 @@ def bubble_sort_by(arr)
     end
     k -= 1
   end
-  print arr
+  arr
 end
 
 bubble_sort_by(second_array) do |a, b|
