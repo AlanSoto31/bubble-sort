@@ -12,11 +12,11 @@ This project was based on creating a sort method using bubble sort, where two el
 
 ## Authors
 
-👤 **Devkc** 
+👤 **Cosmel Villalobos**
 
 - Github: [@cvilla714](https://github.com/cvilla714)
 - Twitter: [@kckeyti](https://twitter.com/kckeyti)
-- Linkedin: [linkedin Profile](https://www.linkedin.com/in/cosmel-villalobos-1900531aa/)
+- LinkedIn: [Cosmel Villalobos](https://www.linkedin.com/in/cosvilla/)
 
 👤 **Alan Soto** 
 
